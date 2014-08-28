@@ -60,4 +60,5 @@
 
     echo "<img scr=\"{$Steam->response->players[0]->avatarfull}\"/>";
     
+    
 ?>
